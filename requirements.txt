@@ -1,0 +1,7 @@
+streamlit>=1.36
+pandas>=2.2
+plotly>=5.22
+slack-sdk>=3.31
+requests>=2.32
+python-dotenv>=1.0
+vaderSentiment>=3.3.2
